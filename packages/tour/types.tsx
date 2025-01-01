@@ -5,9 +5,9 @@ import {
   ReactElement,
   ComponentType,
 } from 'react'
-import { Position, PopoverStylesObj, PositionProps } from '@reactour/popover'
-import { MaskStylesObj } from '@reactour/mask'
-import { RectResult } from '@reactour/utils'
+import { Position, PopoverStylesObj, PositionProps } from 'reactour-popover'
+import { MaskStylesObj } from 'reactour-mask'
+import { RectResult } from 'reactour-utils'
 import { PopoverComponentsType } from './components/index'
 import { StylesObj } from './styles'
 

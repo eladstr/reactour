@@ -1,5 +1,5 @@
 {
-  "name": "@reactour/tsconfig",
+  "name": "reactour-tsconfig",
   "version": "0.0.2",
   "private": true,
   "main": "index.js",

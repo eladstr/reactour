@@ -1,8 +1,7 @@
 {
-  "name": "@reactour/config",
+  "name": "reactour-config",
   "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT",
   "files": [
     "eslint-preset.js"
   ],

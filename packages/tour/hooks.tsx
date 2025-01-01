@@ -1,5 +1,5 @@
 import { useEffect, useCallback, useState } from 'react'
-import { inView, smoothScroll, getWindow, getRect } from '@reactour/utils'
+import { inView, smoothScroll, getWindow, getRect } from 'reactour-utils'
 import { StepType } from './types'
 
 let initialState = {

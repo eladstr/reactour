@@ -30,7 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elrumordelaluz/reactour.git"
-  },
-  "homepage": "https://github.com/elrumordelaluz/reactour#readme"
+    "url": "https://github.com/eladstr/reactour.git"
+  }
 }

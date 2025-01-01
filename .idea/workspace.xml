@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87e131de-00c7-4baf-9fd3-fbaf50be8e63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/@reactour/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@reactour/mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@reactour/popover" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@reactour/tour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@reactour/tsconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@reactour/utils" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ts.external.directory.path": "/Users/elads/forks/reactour/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
