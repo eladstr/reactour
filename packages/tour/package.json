@@ -15,9 +15,9 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "reactour-mask": "workspace:*",
-    "reactour-popover": "workspace:*",
-    "reactour-utils": "workspace:*"
+    "reactour-mask": "*",
+    "reactour-popover": "*",
+    "reactour-utils": "*"
   },
   "peerDependencies": {
     "react": "16.x || 17.x || 18.x"
