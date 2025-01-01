@@ -2352,17 +2352,17 @@ react@^18.3.1:
   dependencies:
     loose-envify "^1.1.0"
 
-reactour-mask@./packages/mask:
+"reactour-mask@file:packages/mask":
   version "1.1.0"
   dependencies:
-    reactour-utils "./packages/utils"
+    reactour-utils "file:../../Library/Caches/Yarn/v6/npm-reactour-mask-1.1.0-3e1042cc-403e-4a37-a12f-578e003ad20f-1735738226080/node_modules/utils"
 
-reactour-popover@./packages/popover:
+"reactour-popover@file:packages/popover":
   version "1.2.0"
   dependencies:
-    reactour-utils "./packages/utils"
+    reactour-utils "file:../../Library/Caches/Yarn/v6/npm-reactour-popover-1.2.0-6964f465-351e-47f9-a387-3485e04b85c7-1735738226081/node_modules/utils"
 
-reactour-utils@./packages/utils:
+"reactour-utils@file:packages/utils":
   version "0.5.0"
   dependencies:
     "@rooks/use-mutation-observer" "^4.11.2"

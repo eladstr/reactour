@@ -6,18 +6,18 @@
   "types": "./dist/index.d.ts",
   "sideEffects": false,
   "devDependencies": {
-    "reactour-config": "*",
-    "reactour-tsconfig": "*",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "react": "^18.3.1",
+    "reactour-config": "*",
+    "reactour-tsconfig": "*",
     "tsup": "^8.3.5",
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "reactour-mask": "./packages/mask",
-    "reactour-popover": "./packages/popover",
-    "reactour-utils": "./packages/utils"
+    "reactour-mask": "file:../mask",
+    "reactour-popover": "file:../popover",
+    "reactour-utils": "file:../utils"
   },
   "peerDependencies": {
     "react": "16.x || 17.x || 18.x"
