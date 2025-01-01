@@ -27,7 +27,7 @@
   "packageManager": "yarn@1.22.18",
   "dependencies": {
     "@changesets/cli": "^2.27.11",
-    "reactour-config": "^0.0.0",
+    "reactour-config": "^0.1.0",
     "reactour-mask": "^1.1.0",
     "reactour-popover": "^1.2.0",
     "reactour-tour": "^3.7.0",
