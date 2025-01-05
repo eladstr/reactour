@@ -14,7 +14,7 @@
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "turbo run build && changeset publish",
-    "prepare": "npm run build"
+    "prepack": "yarn install && yarn build"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "^5.2.1",
