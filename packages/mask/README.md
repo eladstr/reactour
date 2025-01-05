@@ -12,7 +12,7 @@ https://docs.react.tours/mask
 ## Install
 
 ```zsh
-npm i -S @reactour/mask
+npm i -S reactour-mask
 # or
 yarn add @reactour/mask
 ```

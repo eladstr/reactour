@@ -10,7 +10,7 @@ import {
   getWindow,
   getPadding,
   RectResult,
-} from '@reactour/utils'
+} from 'reactour-utils'
 
 import { StylesObj, stylesMatcher } from './styles'
 

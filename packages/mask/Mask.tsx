@@ -1,6 +1,6 @@
 import React, { MouseEventHandler } from 'react'
 import { StylesObj, stylesMatcher } from './styles'
-import { safe, getWindow, getPadding, RectResult } from '@reactour/utils'
+import { safe, getWindow, getPadding, RectResult } from 'reactour-utils'
 
 const Mask: React.FC<MaskProps> = ({
   padding = 10,
