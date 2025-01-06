@@ -13,8 +13,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md,mdx}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build && changeset publish",
-    "prepare": "./link-node-modules.sh"
+    "release": "turbo run build && changeset publish"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "^5.2.1",
@@ -27,7 +26,13 @@
   },
   "packageManager": "yarn@1.22.18",
   "dependencies": {
-    "@changesets/cli": "^2.27.11"
+    "@changesets/cli": "^2.27.11",
+    "reactour-config": "*",
+    "reactour-mask": "*",
+    "reactour-popover": "*",
+    "reactour-tour": "*",
+    "reactour-tsconfig": "*",
+    "reactour-utils": "*"
   },
   "repository": {
     "type": "git",
